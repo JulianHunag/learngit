@@ -4,4 +4,9 @@ Creating a new branch is quick and simple.
 merge no-ff
 I am fixing bugs
 test stash usage
+sencond bugs fixed 
+
+
+
+
 
