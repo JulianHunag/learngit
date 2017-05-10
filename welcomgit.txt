@@ -3,4 +3,5 @@ sencond modify git is a free software
 Creating a new branch is quick and simple.
 merge no-ff
 I am fixing bugs
+test stash usage
 
