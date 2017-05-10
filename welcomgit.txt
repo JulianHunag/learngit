@@ -3,4 +3,10 @@ sencond modify
 Creating a new branch is quick and simple.
 merge no-ff
 start to fixed bugs
+I am fixing bugs
+test stash usage
+second fixed bug on marst
+
+
+
 
